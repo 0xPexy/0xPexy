@@ -54,3 +54,6 @@ that make decentralized technology more accessible and useful.
 ---
 
 _"Good tools make complexity invisible. That’s what I build. 💻"_
+
+_Fun fact: “-pexy” means solidity — not just the concept, but also the contract language 😉_
+
