@@ -15,8 +15,8 @@ that make decentralized technology more accessible and useful.
 ## 🧠 Tech Stack
 
 - **Languages**: TypeScript, JavaScript, Python, Go, Solidity
-- **Frameworks**: React, Node.js, Express, NestJS
-- **Tools**: Hardhat, Docker, Git, VSCode
+- **Frameworks**: React, Node.js, Express, NestJS, Foundry
+- **Tools**: Docker, Git, VSCode
 - **Blockchain**: Ethereum, Solana, EVM, Web3.js, ethers.js
 
 ---
