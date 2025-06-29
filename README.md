@@ -6,7 +6,7 @@ that make decentralized technology more accessible and useful.
 ---
 
 ## 🌱 Currently...
-
+- 📚 Studying Smart Contract Security
 - 🌐 Building AI-integrated DeFi tools to help people use Web3 more easily and intuitively.
 - 🛠 Rebuilding my GitHub, portfolio, and productivity systems
 
